@@ -5,7 +5,10 @@ const AppFooter = () => {
       <div className="w-100 h-100 d-flex">
         <div className="w-25 h-100 d-flex justify-content-start ms-5 align-items-center">
           <span className={styles.logo}>
-            <a href="https://www.linkedin.com/in/sateesh-kumar-goud-5b1321243/" target="blank">
+            <a
+              href="https://www.linkedin.com/in/sateesh-kumar-goud-5b1321243/"
+              target="blank"
+            >
               <img
                 src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png"
                 width="35px"
@@ -14,7 +17,10 @@ const AppFooter = () => {
             </a>
           </span>
           <span className={styles.logo}>
-            <a href="https://github.com/kalal-sateesh" target="blank">
+            <a
+              href="https://github.com/kalal-sateesh/react-whether-report-project"
+              target="blank"
+            >
               <img
                 src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
                 width="30px"
